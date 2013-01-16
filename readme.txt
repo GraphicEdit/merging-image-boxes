@@ -1,7 +1,7 @@
 === Merging Image Boxes ===
 
 Contributors: graphicedit
-Donate link: http://www.graphicedit.com/
+Donate link: http://graphicedit.com/
 Tags:  gallery, photography, photo, image, images, gallery, slideshow, short code, jQuery 
 Requires at least: 3.0
 Tested up to: 3.0
@@ -14,7 +14,7 @@ Merging Image Boxes
 Merging Image Boxes is powered by the awesome jQuery plugin.  The plugin creates a image matrix for your slides and allows the user to create simple slideshows. 
  
 
-Links: [Author Homepage](http://www.graphicedit.com/)
+Links: [Author Homepage](http://graphicedit.com/)
 
 == Installation ==
 
