@@ -3,9 +3,9 @@
 Contributors: graphicedit
 Donate link: http://graphicedit.com/
 Tags:  gallery, photography, photo, image, images, gallery, slideshow, short code, jQuery 
-Requires at least: 3.0
-Tested up to: 3.0
-Stable tag: 1.0.1
+Requires at least: 4.9.4
+Tested up to: 4.9 
+Stable tag: 1.0.2
 
 Merging Image Boxes
 
